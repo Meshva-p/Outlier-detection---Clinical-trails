@@ -1,3 +1,5 @@
-# adtte_analysis
+# Outlier detection for the ADaM datasets.
 
-ADaM TTE Analysis Dataset (ADTTE) used for exploring outliers in clinical trials and identifying Level 1 anomalies,i.e,missing data.
+ADaM (Analysis Dataset Model) are meant to describe the data attributes such as structure, content, and metadata that are typically found in clinical trial analysis datasets. Here, the datasets of clinical trials of  Docetaxel + Placebo are used to analyze and visualize the outliers and adverse events.
+
+
